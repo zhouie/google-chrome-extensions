@@ -5,6 +5,7 @@
 ![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/1.png)
 
 [https://github.com/gorhill/uBlock/releases](https://github.com/gorhill/uBlock/releases)
+
 这款插件不仅可以智能识别屏蔽，还可以手动添加广告块。
 
 ### Grammarly
@@ -12,6 +13,7 @@
 ![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/2.jpg)
 
 [https://www.grammarly.com/](https://www.grammarly.com/)
+
 跨平台的英文写作纠错工具。Grammarly 提供拼写校正（Spell Checking），语境分析下的词汇应用纠正（Contextual Spelling Check），语法规则纠正（Grammar），标点符号纠正（Punctuation），句式架构纠正（Sentence Structure）等基础功能，在高级功能中，你还可以享用文章类型预判（Document Type，可根据不同类型的文章进行校对），文章原创性检查（Plagiarism），单词推荐（Vocabulary enhancement）以及文章校对服务（Proofreading，邀请专业人士为你的文章找问题，需要另花钱）。
 
 ### bilibili-helper
@@ -19,6 +21,7 @@
 ![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/3.png)
 
 [https://github.com/zacyu/bilibili-helper/releases](https://github.com/zacyu/bilibili-helper/releases)
+
 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作。
 
 ### Quick QR Code Generator
@@ -56,6 +59,7 @@ Page Ruler是一款可以测量Chrome浏览器中网页元素大小尺寸的谷�
 ![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/9.gif)
 
 [https://github.com/buunguyen/octotree](https://github.com/buunguyen/octotree)
+
 这款插件能够使你在github查看项目时可以清晰明了的看到项目的结构以及具体代码，使下载代码更具有目的性，减少不必要代码的下载，而且看起来更清楚。
 
 ### Octo Mate
@@ -64,6 +68,7 @@ Page Ruler是一款可以测量Chrome浏览器中网页元素大小尺寸的谷�
 
 [https://github.com/camsong/chrome-github-mate/blob/master/README.cn.md](https://github.com/camsong/chrome-github-mate/blob/master/README.cn.md)
 [https://www.crx4chrome.com/crx/1150/](https://www.crx4chrome.com/crx/1150/)
+
 这款插件能够一键下载文件、一键打开项目的 Github Pages、显示仓库大小、显示未读消息数。
 
 ### Isometric Contributions
@@ -77,4 +82,5 @@ Isometric Contributions是一款可以将冷冰冰的数据转化为生动图形
 ![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/12.gif)
 
 [https://github.com/algolia/github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete)
+
 这款插件能够让你在 GitHub 中输入关键字之后通过弹窗动态显示相应的搜索结果，实时监听输入的搜索关键字，自动列出相关内容，你所需要做的，只是点击即可。
