@@ -8,6 +8,8 @@
 
 这款插件不仅可以智能识别屏蔽，还可以手动添加广告块。
 
+---
+
 ### Grammarly
 
 ![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/2.jpg)
@@ -15,6 +17,8 @@
 [https://www.grammarly.com/](https://www.grammarly.com/)
 
 跨平台的英文写作纠错工具。Grammarly 提供拼写校正（Spell Checking），语境分析下的词汇应用纠正（Contextual Spelling Check），语法规则纠正（Grammar），标点符号纠正（Punctuation），句式架构纠正（Sentence Structure）等基础功能，在高级功能中，你还可以享用文章类型预判（Document Type，可根据不同类型的文章进行校对），文章原创性检查（Plagiarism），单词推荐（Vocabulary enhancement）以及文章校对服务（Proofreading，邀请专业人士为你的文章找问题，需要另花钱）。
+
+---
 
 ### bilibili-helper
 
@@ -24,11 +28,15 @@
 
 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作。
 
+---
+
 ### Quick QR Code Generator
 
 ![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/4.gif)
 
 这款插件可以生成当前页面二维码,手机直接扫二维码就可以访问当前页面。
+
+---
 
 ### Similar Web
 
@@ -36,11 +44,15 @@
 
 Similar Web插件全称Similar Web Site Traffic Sources and Ranking，这款谷歌插件可以查询网站在全球范围的流量来源和排名情况，是了解自己网站和研究竞争对手网站的一个很好的辅助手段。
 
+---
+
 ### Page Ruler
 
 ![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/6.jpg)
 
 Page Ruler是一款可以测量Chrome浏览器中网页元素大小尺寸的谷歌浏览器插件。
+
+---
 
 ### GitHub Plus
 
@@ -48,11 +60,15 @@ Page Ruler是一款可以测量Chrome浏览器中网页元素大小尺寸的谷�
 
 这款插件能够显示代码仓库的大小，以及其中每个文件的大小和下载链接。使用这款插件，我们再也不用因为需要某个单一文件而被迫下载整个项目源码，尤其是在网速不给力的时候。
 
+---
+
 ### GitHub File Icon
 
 ![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/8.png)
 
 这款插件能够改善GitHub现有的文档系统呈现样式，使它更容易被查看。简单来说，无论是任何格式的文档在GitHub网站中都是使用相同图标，虽然看起来很有一致性，却不能够有效查看文档类型，如同你熟悉的编辑器可能会针对不同的文档格式显示不同的图案。
+
+---
 
 ### Octotree
 
@@ -61,6 +77,8 @@ Page Ruler是一款可以测量Chrome浏览器中网页元素大小尺寸的谷�
 [https://github.com/buunguyen/octotree](https://github.com/buunguyen/octotree)
 
 这款插件能够使你在github查看项目时可以清晰明了的看到项目的结构以及具体代码，使下载代码更具有目的性，减少不必要代码的下载，而且看起来更清楚。
+
+---
 
 ### Octo Mate
 
@@ -71,11 +89,15 @@ Page Ruler是一款可以测量Chrome浏览器中网页元素大小尺寸的谷�
 
 这款插件能够一键下载文件、一键打开项目的 Github Pages、显示仓库大小、显示未读消息数。
 
+---
+
 ### Isometric Contributions
 
 ![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/11.jpg)
 
 Isometric Contributions是一款可以将冷冰冰的数据转化为生动图形的Chrome扩展程序。它可以将你每天的contributions数目（可以理解为提交GitHub的数目）转化为颜色不一的立体柱状图，并给出自己的统计数据。Contributions数目由少到多分别以颜色逐渐变重的立体柱状图显示，宛如搭建一座高低错落的城市一般。 
+
+---
 
 ### Awesome Autocomplete
 
