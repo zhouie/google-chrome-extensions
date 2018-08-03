@@ -106,3 +106,9 @@ Isometric Contributions是一款可以将冷冰冰的数据转化为生动图形
 [https://github.com/algolia/github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete)
 
 这款插件能够让你在 GitHub 中输入关键字之后通过弹窗动态显示相应的搜索结果，实时监听输入的搜索关键字，自动列出相关内容，你所需要做的，只是点击即可。
+
+### Markdown Here
+
+![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/13.png)
+
+Markdown Here 是个浏览器插件（Chrome/Firefox/Safari），可以将浏览器中编辑器里的 Markdown 文本转换成渲染过后的 HTML。
