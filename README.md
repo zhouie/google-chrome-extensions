@@ -112,3 +112,14 @@ Isometric Contributions是一款可以将冷冰冰的数据转化为生动图形
 ![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/13.png)
 
 Markdown Here 是个浏览器插件（Chrome/Firefox/Safari），可以将浏览器中编辑器里的 Markdown 文本转换成渲染过后的 HTML。
+
+
+### 掘金juejin
+
+![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/14.png)
+
+一个帮助开发者成长的社区 - Become a Better Developer by Sharing and Learning !
+
+给开发者用的 Hacker News,给设计师用的 Designer News,和给产品经理用的 Medium .
+
+
