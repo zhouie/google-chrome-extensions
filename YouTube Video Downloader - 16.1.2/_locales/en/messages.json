@@ -1,0 +1,564 @@
+{
+    "extName": {
+        "message": "YouTube Video and MP3 Downloader",
+        "description": "Extension name"
+    },
+    "extDescription": {
+        "message": "Download YouTube videos with different video quality: 1080P, 720P, 480P, 360p etc. Supports all formats Mp3, MP4, FLV, WebM, 3GP",
+        "description": "Extension description"
+    },
+    "extShortName": {
+        "message": "YouTube Downloader",
+        "description": "Short extension name"
+    },
+    "optHeading": {
+        "message": "Settings",
+        "description": "Options page heading"
+    },
+    "optVideoFormatsCheckboxGroupLabel": {
+        "message": "Video formats to show in page dropdown menu",
+        "description": "Video formats checkbox group label"
+    },
+    "optDashRadioBothItemsLabel": {
+        "message": "Include dash video and audio items (Recommended)",
+        "description": "Dash checkbox label for both items"
+    },
+    "optDashRadioVideoItemsLabel": {
+        "message": "Include dash video only items (Marked with orange color in dropdown menu)",
+        "description": "Dash checkbox label for video only items"
+    },
+    "optDashRadioAudioItemsLabel": {
+        "message": "Include dash audio only items (Marked with green color in dropdown menu)",
+        "description": "Dash checkbox label for audio only items"
+    },
+    "optMp3BitrateCheckboxGroupLabel": {
+        "message": "MP3 converter configuration",
+        "description": "MP3 bitrate checkbox group label"
+    },
+    "optClipConverterEnabledHeading": {
+        "message": "1080p, 2K and 4K videos configuration",
+        "description": "Clipconverter switch heading"
+    },
+    "optClipConverterEnabledSwitchLabel": {
+        "message": "Enable HD videos downloads",
+        "description": "Clipconverter switch label"
+    },
+    "optClipConverterEnabledSwitchNote": {
+        "message": "(Caution: Requires processing and cannot download copyrighted or music videos)",
+        "description": "Clipconverter switch note"
+    },
+    "optDownloadsManagerEnabledHeading": {
+        "message": "Downloads Manager",
+        "description": "Downloads manager switch heading"
+    },
+    "optDownloadsManagerEnabledSwitchLabel": {
+        "message": "Enable YouTube downloads manager",
+        "description": "Downloads manager switch label"
+    },
+    "optDownloadsManagerEnabledSwitchNote": {
+        "message": "(Note: You can only manage downloads started by this extension)",
+        "description": "Downloads manager switch note"
+    },
+    "optPreferredVideoPlaybackQualitySelectLabel": {
+        "message": "Set preferred video playback quality",
+        "description": "Video playback quality select label"
+    },
+    "optExtrasConfigurationHeading": {
+        "message": "Enhancement: improve your user experience on YouTube",
+        "description": "Extra features heading"
+    },
+    "optEnhancerBarEnabledSwitchLabel": {
+        "message": "Add enhancer bar under video",
+        "description": "Enhancer bar switch label"
+    },
+    "optEnhancerBarEnabledSwitchNote": {
+        "message": "(YouTube cinema modus, Dark theme & Pop out video's from YouTube)",
+        "description": "Extra features heading"
+    },
+    "optScreenshotButtonEnabledSwitchLabel": {
+        "message": "Enable screenshot button",
+        "description": "Screenshot button switch label"
+    },
+    "optScreenshotButtonEnabledSwitchNote": {
+        "message": "(Allows you to take screenshot of the video and save it instantly to your disk)",
+        "description": "Screenshot button note"
+    },
+    "optFloatVideoEnabledSwitchLabel": {
+        "message": "Enable floating video",
+        "description": "Float video switch label"
+    },
+    "optFloatVideoEnabledSwitchNote": {
+        "message": "(Smart view to see video while scrolling down. Video will be shown in bottom right corner.)",
+        "description": "Float video switch note"
+    },
+    "optSmartPauseEnabledSwitchLabel": {
+        "message": "Enable smart pause",
+        "description": "Smart pause switch label"
+    },
+    "optSmartPauseEnabledSwitchNote": {
+        "message": "(Auto pauses currently playing videos on YouTube once you leave the page and resumes when you return)",
+        "description": "Smart pause switch note"
+    },
+    "optRemoveAdsEnabledSwitchLabel": {
+        "message": "Remove ads from YouTube",
+        "description": "Remove ads switch label"
+    },
+    "optRemoveAdsEnabledSwitchNote": {
+        "message": "(Removes banner ads and in-video ads)",
+        "description": "Remove ads switch note"
+    },
+    "optDisableAutoplayEnabledSwitchLabel": {
+        "message": "Disable autoplay",
+        "description": "Disable autoplay switch label"
+    },
+    "optDisableAutoplayEnabledSwitchNote": {
+        "message": "(Stop auto loads a suggested video when the current video ends)",
+        "description": "Disable autoplay switch note"
+    },
+    "optHideCommentsEnabledSwitchLabel": {
+        "message": "Hide YouTube comments",
+        "description": "Hide comments switch label"
+    },
+    "optHideCommentsEnabledSwitchNote": {
+        "message": "(Hides all user comments on YouTube videos)",
+        "description": "Hide comments switch note"
+    },
+    "optLoopVideosEnabledSwitchLabel": {
+        "message": "Loop videos",
+        "description": "Loop videos switch label"
+    },
+    "optLoopVideosEnabledSwitchNote": {
+        "message": "(Advanced options to loop a video)",
+        "description": "Loop videos switch note"
+    },
+    "optRemoveFeedRecommendationsEnabledSwitchLabel": {
+        "message": "Remove feed recommendations",
+        "description": "Remove feed recommendations switch label"
+    },
+    "optRemoveFeedRecommendationsEnabledSwitchNote": {
+        "message": "(Removes feed recommendations on YouTube homepage)",
+        "description": "Remove feed recommendations switch note"
+    },
+    "optAudioModeButtonEnabledSwitchLabel": {
+        "message": "Show audio mode button",
+        "description": "Audio mode switch label"
+    },
+    "optAudioModeButtonEnabledSwitchNote": {
+        "message": "(Listen to audio only without loading the video)",
+        "description": "Audio mode switch note"
+    },
+    "optVolumeControlWithMouseWheelEnabledSwitchLabel": {
+        "message": "Control volume with mousewheel",
+        "description": "Volume control switch label"
+    },
+    "optVolumeControlWithMouseWheelEnabledSwitchNote": {
+        "message": "(Use your mousewheel inside the video to control the volume)",
+        "description": "Volume control switch note"
+    },
+    "optVideoSearchEnabledSwitchLabel": {
+        "message": "Search while watching videos",
+        "description": "Video search switch label"
+    },
+    "optVideoSearchEnabledSwitchNote": {
+        "message": "(Search YouTube without interrupting the video, by loading the search results in the related videos section)",
+        "description": "Video search switch note"
+    },
+    "optGeneralConfigurationHeading": {
+        "message": "General Configuration",
+        "description": "General Configuration heading"
+    },
+    "optEmbeddedDownloadsEnabledLabel": {
+        "message": "Show download button on embedded videos",
+        "description": "Embedded downloads switch label"
+    },
+    "optCopyToClipboardButtonEnabledLabel": {
+        "message": "Enable copy to clipboard button",
+        "description": "Copy to clipboard button label"
+    },
+    "optQrGeneratorButtonEnabledLabel": {
+        "message": "Enable QR code generator button",
+        "description": "Qr code generator button label"
+    },
+    "optSaveAsDialogEnabledLabel": {
+        "message": "Show save-as dialog box when I choose to download a video",
+        "description": "Save-as dialog switch label"
+    },
+    "optSaveButtonTooltip": {
+        "message": "Save settings",
+        "description": "Save button tooltip"
+    },
+    "optSaveButtonText": {
+        "message": "Save",
+        "description": "Save button text"
+    },
+    "optResetButtonTooltip": {
+        "message": "Reset to defaults",
+        "description": "Reset button tooltip"
+    },
+    "optResetButtonText": {
+        "message": "Reset",
+        "description": "Reset button text"
+    },
+    "optResetConfirmationDialogText": {
+        "message": "This will reset your settings. Continue?",
+        "description": "Reset dialog text"
+    },
+    "optResetConfirmationDialogOKButton": {
+        "message": "OK",
+        "description": "Reset dialog OK button text"
+    },
+    "optResetConfirmationDialogCancelButton": {
+        "message": "Cancel",
+        "description": "Reset dialog Cancel button text"
+    },
+    "optMessageSettingsSaved": {
+        "message": "Settings saved.",
+        "description": "Message to show when settings are saved"
+    },
+    "optMessageSettingsSaveError": {
+        "message": "Please fix the errors.",
+        "description": "Message to show when settings form has errors"
+    },
+    "optMessageResetSuccess": {
+        "message": "Default settings restored.",
+        "description": "Message to show when default options are restored"
+    },
+    "optRequiredError": {
+        "message": "The {field} is required.",
+        "description": "Error message for required"
+    },
+    "optCopyrightsText": {
+        "message": "<small>All extension's content is protected by <a class=\"el-button el-button--text\" href=\"$URL$\" target=\"_blank\">Copyrights</a>.</small>",
+        "description": "Options copyrights message",
+        "placeholders": {
+            "url" : {
+                "content": "$1",
+                "example": "https://addoncrop.com/copyright"
+            }
+        }
+    },
+    "popupAddonButtonTitle": {
+        "message": "Download",
+        "description": "Addon page button text"
+    },
+    "popupAboutButtonTitle": {
+        "message": "About",
+        "description": "About page button text"
+    },
+    "popupUpdatesButtonTitle": {
+        "message": "Updates",
+        "description": "Updates page button text"
+    },
+    "popupReportBugButtonTitle": {
+        "message": "Report a bug",
+        "description": "Bug report button text"
+    },
+    "popupStoreButtonTitle": {
+        "message": "More addons",
+        "description": "Promotions page button text"
+    },
+    "popupSettingsButtonTitle": {
+        "message": "Settings",
+        "description": "Settings button text"
+    },
+    "popupShareButtonTitle": {
+        "message": "Share",
+        "description": "Share page button text"
+    },
+    "popupExpandButtonTitle": {
+        "message": "Expand",
+        "description": "Expand page button text"
+    },
+    "popupCollapseButtonTitle": {
+        "message": "Collapse",
+        "description": "Toggle button text"
+    },
+    "popupAddonPageMainDownloadTooltip": {
+        "message": "Download best format",
+        "description": "Addon page main download link tooltip"
+    },
+    "popupAddonPageDownloadButtonTooltip": {
+        "message": "Download",
+        "description": "Addon page download button tooltip"
+    },
+    "popupAddonPageCopyButtonTooltip": {
+        "message": "Copy to clipboard",
+        "description": "Addon page copy to clipboard button tooltip"
+    },
+    "popupAddonPageQrButtonTooltip": {
+        "message": "Generate QR code",
+        "description": "Addon page qr generator button tooltip"
+    },
+    "popupAddonPageConvertToMp3ButtonText": {
+        "message": "Convert to MP3",
+        "description": "Addon page convert to mp3 button text"
+    },
+    "popupAddonPageMp3BitrateSelectLabel": {
+        "message": "MP3 bitrate",
+        "description": "Addon page mp3 bitrate select label"
+    },
+    "popupAddonPageTimeSliderLabel": {
+        "message": "Time",
+        "description": "Time range slider label"
+    },
+    "popupAddonPageConverterTimeFromText": {
+        "message": "Converting from",
+        "description": "Converter time from text"
+    },
+    "popupAddonPageConverterTimeToText": {
+        "message": "to",
+        "description": "Converter time to text"
+    },
+    "popupAddonPageMp3DownloadButtonText": {
+        "message": "Download",
+        "description": "Mp3 download button text"
+    },
+    "popupAddonPageBackButtonText": {
+        "message": "Back",
+        "description": "Back button text"
+    },
+    "popupAddonPageDownloadStartedMessage": {
+        "message": "Download started.",
+        "description": "Download started message"
+    },
+    "popupAddonPageDownloadLinkCopiedMessage": {
+        "message": "Download link copied.",
+        "description": "Download link copied message"
+    },
+    "popupDownloadsLinkText": {
+        "message": "Downloads",
+        "description": "Downloads link text"
+    },
+    "popupHomepageLinkText": {
+        "message": "Homepage",
+        "description": "Homepage link text"
+    },
+    "popupUserguideLinkText": {
+        "message": "Userguide",
+        "description": "Userguide link text"
+    },
+    "popupFAQsLinkText": {
+        "message": "FAQs",
+        "description": "FAQs link text"
+    },
+    "popupContactLinkText": {
+        "message": "Contact",
+        "description": "Contact link text"
+    },
+    "popupCopyrightsLinkText": {
+        "message": "EULA",
+        "description": "Copyrights link text"
+    },
+    "popupUpdateSuccessText": {
+        "message": "<strong>Congratulations!</strong><br>You are running latest version.",
+        "description": "Already updated message"
+    },
+    "popupUpdateErrorText": {
+        "message": "<strong>Update available!</strong><br>There is an update available to version",
+        "description": "Update available message"
+    },
+    "popupUpdateDownloadButtonText": {
+        "message": "Download",
+        "description": "Update download button text"
+    },
+    "popupBugReportHeading": {
+        "message": "Report a bug",
+        "description": "Bug report page heading"
+    },
+    "popupBugReportSubHeading": {
+        "message": "Host your screenshots at <a href=\"https://imgur.com/\" class=\"el-button el-button--text\" target=\"_blank\">Imgur</a> and provide links in the message.",
+        "description": "Bug report page sub heading"
+    },
+    "popupEmailInputLabel": {
+        "message": "Your email",
+        "description": "Bug report email label"
+    },
+    "popupMessageInputLabel": {
+        "message": "Describe the issue",
+        "description": "Bug report message label"
+    },
+    "popupRequiredError": {
+        "message": "The {field} is required.",
+        "description": "Required error message"
+    },
+    "popupEmailError": {
+        "message": "Please input a valid email.",
+        "description": "Invalid email error message"
+    },
+    "popupLengthError": {
+        "message": "Length should be {from} to {to}.",
+        "description": "Length error message"
+    },
+    "popupSubmitButtonText": {
+        "message": "Submit",
+        "description": "Submit bug report button text"
+    },
+    "popupBugReportSuccessText": {
+        "message": "Bug report was submitted successfully.",
+        "description": "Bug report submitted message"
+    },
+    "popupBugReportWarningText": {
+        "message": "<strong>Limit reached!</strong>.<br>You have already sent $TOTAL$ reports in last 7 days.",
+        "description": "Bug report limit warning message",
+        "placeholders": {
+            "total" : {
+                "content": "$1",
+                "example": "5"
+            }
+        }
+    },
+    "popupShareHeading": {
+        "message": "Share this addon",
+        "description": "Share page heading"
+    },
+    "injDuplicateAlertMessage": {
+        "message": "Old versions of the extension $DUPLICATES$ found. Please uninstall to avoid conflicts.",
+        "description": "duplicate versions alert message",
+        "placeholders": {
+            "duplicates" : {
+                "content": "$1",
+                "example": "v0.0.9, v1.0.2"
+            }
+        }
+    },
+    "downloadsHeading": {
+        "message": "Downloads",
+        "description": "Downloads page heading"
+    },
+    "downloadsSearchPlaceholder": {
+        "message": "Search downloads",
+        "description": "Search bar placeholder text"
+    },
+    "downloadsSearchStatus": {
+        "message": "Found {{count}} results for \"{{search}}\"",
+        "description": "Search results status"
+    },
+    "downloadsAllTabButtonText": {
+        "message": "All",
+        "description": "All tab button text"
+    },
+    "downloadsVideosTabButtonText": {
+        "message": "Videos",
+        "description": "Videos tab button text"
+    },
+    "downloadsMusicTabButtonText": {
+        "message": "Music",
+        "description": "Music tab button text"
+    },
+    "downloadsClearButtonText": {
+        "message": "Clear",
+        "description": "Clear downloads button text"
+    },
+    "downloadsPlayButtonTooltip": {
+        "message": "Play",
+        "description": "Play button tooltip text"
+    },
+    "downloadsCopyLinkButtonTooltip": {
+        "message": "Copy link",
+        "description": "Copy link button tooltip text"
+    },
+    "downloadsShowInFolderButtonTooltip": {
+        "message": "Show in folder",
+        "description": "Show download in folder button tooltip text"
+    },
+    "downloadsSizeUnknownStatus": {
+        "message": "Size Unknown",
+        "description": "File size unknown status text"
+    },
+    "downloadsPausedStatus": {
+        "message": "Paused",
+        "description": "Download paused status text"
+    },
+    "downloadsCopiedSuccessMessage": {
+        "message": "Copied!",
+        "description": "Link copied success message"
+    },
+    "downloadsClearDownloadsMessage": {
+        "message": "This will permanently clear the downloads history. Continue?",
+        "description": "Clear downloads prompt messages"
+    },
+    "downloadsCancelDownloadMessage": {
+        "message": "Do you want to cancel the download?",
+        "description": "Cancel downloads prompt message"
+    },
+    "downloadsBrandingNote": {
+        "message": "Downloads started by {{extName}} will be shown here.",
+        "description": "Note in sidebar"
+    },
+    "downloadsDeletedDownloadError": {
+        "message": "Deleted",
+        "description": "Deleted download error text"
+    },
+    "downloadsError_FILE_FAILED": {
+        "message": "Failed"
+    },
+    "downloadsError_FILE_ACCESS_DENIED": {
+        "message": "Access denied"
+    },
+    "downloadsError_FILE_NO_SPACE": {
+        "message": "Insufficient storage space"
+    },
+    "downloadsError_FILE_NAME_TOO_LONG": {
+        "message": "File name is too long"
+    },
+    "downloadsError_FILE_TOO_LARGE": {
+        "message": "File too large"
+    },
+    "downloadsError_FILE_VIRUS_INFECTED": {
+        "message": "File may be infected"
+    },
+    "downloadsError_FILE_TRANSIENT_ERROR": {
+        "message": "Failed"
+    },
+    "downloadsError_FILE_BLOCKED": {
+        "message": "Blocked"
+    },
+    "downloadsError_FILE_SECURITY_CHECK_FAILED": {
+        "message": "Security check failed"
+    },
+    "downloadsError_FILE_TOO_SHORT": {
+        "message": "File is too small"
+    },
+    "downloadsError_NETWORK_FAILED": {
+        "message": "Network failed"
+    },
+    "downloadsError_NETWORK_TIMEOUT": {
+        "message": "Timed out"
+    },
+    "downloadsError_NETWORK_DISCONNECTED": {
+        "message": "Disconnected"
+    },
+    "downloadsError_NETWORK_SERVER_DOWN": {
+        "message": "Server down"
+    },
+    "downloadsError_NETWORK_INVALID_REQUEST": {
+        "message": "Invalid request"
+    },
+    "downloadsError_SERVER_FAILED": {
+        "message": "Server failed"
+    },
+    "downloadsError_SERVER_NO_RANGE": {
+        "message": "Server range error"
+    },
+    "downloadsError_SERVER_BAD_CONTENT": {
+        "message": "Bad content"
+    },
+    "downloadsError_SERVER_UNAUTHORIZED": {
+        "message": "Unauthorized"
+    },
+    "downloadsError_SERVER_CERT_PROBLEM": {
+        "message": "Certificate error"
+    },
+    "downloadsError_SERVER_FORBIDDEN": {
+        "message": "Forbidden"
+    },
+    "downloadsError_USER_CANCELED": {
+        "message": "Cancelled"
+    },
+    "downloadsError_USER_SHUTDOWN": {
+        "message": "Shutdown"
+    },
+    "downloadsError_CRASH": {
+        "message": "Crashed"
+    }
+}

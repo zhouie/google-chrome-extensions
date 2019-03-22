@@ -1,0 +1,19 @@
+/*
+    YouTube Video and MP3 Downloader | Browser Addon
+    ================================================
+
+    Author: Addoncrop <https://addoncrop.com>
+
+    This file is protected by copyright laws and international copyright
+    treaties, as well as other intellectual property laws and treaties.
+
+    All rights not expressly granted to you are retained by the author.
+
+    If it's not clear enough for you, you have no rights to use my work,
+    neither as-is nor modified! Improve your skills instead of using others' work.
+
+    <https://addoncrop.com> - All Rights Reserved
+    <https://addoncrop.com/copyright>
+*/
+
+body{background-color:#fff!important;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif!important;overflow:hidden!important}#aright,#atop,#content h2,#content iframe,#converter>p,#footer,#logo,#navi,#step4 .row,#step4 p,#topline{display:none!important}#outer{background:none!important;width:100%!important}#contentouterouter{float:none!important}#contentouter{background-color:#fff!important;border:0!important;display:block!important;width:100%!important}#content{background:#fff!important;margin:0!important;padding:0 1rem 1rem!important}.error{background:none!important;background-color:#f7d4ca!important}.error,.warning{border:0!important;border-radius:2px!important;color:#333!important;margin-bottom:1rem!important;margin-top:1rem!important;padding:.75rem 1rem!important}.warning{background:none!important;background-color:#fff8bc!important}.processstep{margin-bottom:1rem!important;padding:0!important}.wait{background-image:none!important;color:#333!important}.processinfo span{font-weight:400!important;padding:0!important}.ui-progressbar{background:#eee!important;border:0!important;border-radius:2px!important;height:18px!important;overflow:hidden!important}.ui-progressbar .ui-progressbar-value{background:#1abc9c!important;border:0!important}#mitte{opacity:0!important}

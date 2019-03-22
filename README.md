@@ -107,12 +107,15 @@ Isometric Contributions是一款可以将冷冰冰的数据转化为生动图形
 
 这款插件能够让你在 GitHub 中输入关键字之后通过弹窗动态显示相应的搜索结果，实时监听输入的搜索关键字，自动列出相关内容，你所需要做的，只是点击即可。
 
+---
+
 ### Markdown Here
 
 ![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/13.png)
 
 Markdown Here 是个浏览器插件（Chrome/Firefox/Safari），可以将浏览器中编辑器里的 Markdown 文本转换成渲染过后的 HTML。
 
+---
 
 ### 掘金juejin
 
@@ -122,4 +125,23 @@ Markdown Here 是个浏览器插件（Chrome/Firefox/Safari），可以将浏览
 
 给开发者用的 Hacker News,给设计师用的 Designer News,和给产品经理用的 Medium .
 
+---
 
+### MEGA电脑文件同步
+
+![](http://pcx2lec2u.bkt.clouddn.com/201808070916_130.jpg)
+
+同步本地文件夹和MEGA上你的云存储文件夹。 MEGA免费提供50GB的存储空间并对你的数据使用加密处理。
+
+---
+
+### YouTube Video Downloader
+
+通过Google Chrome浏览器的扩展程序将YouTube视频下载到电脑上。
+一般而言，一些网站也能在Chrome浏览器下载YouTube视频，但这类网站大多靠广告赞助的方式盈利，而且无法下载受版权保护的视频或1080p的视频。
+注意：由于下载YouTube视频违反了Google条款和规定，所以这类扩展程序通常都无法在Chrome上使用。
+参考链接：
+* [如何在Chrome浏览器中下载YouTube视频](https://zh.wikihow.com/%E5%9C%A8Chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E4%B8%8B%E8%BD%BDYouTube%E8%A7%86%E9%A2%91)
+* [如何下载YouTube视频](https://zh.wikihow.com/%E4%B8%8B%E8%BD%BDYouTube%E8%A7%86%E9%A2%91)
+* [免费在线下载YouTube、Facebook视频等](https://zh.savefrom.net/)
+* [Free YouTube to MP3 Converter](https://www.freemake.com/free_youtube_converter/)
