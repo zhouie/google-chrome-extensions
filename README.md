@@ -129,7 +129,7 @@ Markdown Here 是个浏览器插件（Chrome/Firefox/Safari），可以将浏览
 
 ### MEGA电脑文件同步
 
-![](http://pcx2lec2u.bkt.clouddn.com/201808070916_130.jpg)
+![](res/img/15.png)
 
 同步本地文件夹和MEGA上你的云存储文件夹。 MEGA免费提供50GB的存储空间并对你的数据使用加密处理。
 
