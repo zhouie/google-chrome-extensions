@@ -2,7 +2,7 @@
 
 ### uBlock Origin
 
-![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/1.png)
+![](res/img/1.png)
 
 [https://github.com/gorhill/uBlock/releases](https://github.com/gorhill/uBlock/releases)
 
