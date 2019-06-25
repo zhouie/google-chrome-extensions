@@ -12,7 +12,7 @@
 
 ### Grammarly
 
-![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/2.jpg)
+![](res/img/2.jpg)
 
 [https://www.grammarly.com/](https://www.grammarly.com/)
 
@@ -22,7 +22,7 @@
 
 ### bilibili-helper
 
-![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/3.png)
+![](res/img/3.png)
 
 [https://github.com/zacyu/bilibili-helper/releases](https://github.com/zacyu/bilibili-helper/releases)
 
@@ -32,7 +32,7 @@
 
 ### Quick QR Code Generator
 
-![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/4.gif)
+![](res/img/4.gif)
 
 这款插件可以生成当前页面二维码,手机直接扫二维码就可以访问当前页面。
 
@@ -40,7 +40,7 @@
 
 ### Similar Web
 
-![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/5.jpg)
+![](res/img/5.jpg)
 
 Similar Web插件全称Similar Web Site Traffic Sources and Ranking，这款谷歌插件可以查询网站在全球范围的流量来源和排名情况，是了解自己网站和研究竞争对手网站的一个很好的辅助手段。
 
@@ -48,7 +48,7 @@ Similar Web插件全称Similar Web Site Traffic Sources and Ranking，这款谷�
 
 ### Page Ruler
 
-![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/6.jpg)
+![](res/img/6.jpg)
 
 Page Ruler是一款可以测量Chrome浏览器中网页元素大小尺寸的谷歌浏览器插件。
 
@@ -56,7 +56,7 @@ Page Ruler是一款可以测量Chrome浏览器中网页元素大小尺寸的谷�
 
 ### GitHub Plus
 
-![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/7.png)
+![](res/img/7.png)
 
 这款插件能够显示代码仓库的大小，以及其中每个文件的大小和下载链接。使用这款插件，我们再也不用因为需要某个单一文件而被迫下载整个项目源码，尤其是在网速不给力的时候。
 
@@ -64,7 +64,7 @@ Page Ruler是一款可以测量Chrome浏览器中网页元素大小尺寸的谷�
 
 ### GitHub File Icon
 
-![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/8.png)
+![](res/img/8.png)
 
 这款插件能够改善GitHub现有的文档系统呈现样式，使它更容易被查看。简单来说，无论是任何格式的文档在GitHub网站中都是使用相同图标，虽然看起来很有一致性，却不能够有效查看文档类型，如同你熟悉的编辑器可能会针对不同的文档格式显示不同的图案。
 
@@ -72,7 +72,7 @@ Page Ruler是一款可以测量Chrome浏览器中网页元素大小尺寸的谷�
 
 ### Octotree
 
-![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/9.gif)
+![](res/img/9.gif)
 
 [https://github.com/buunguyen/octotree](https://github.com/buunguyen/octotree)
 
@@ -82,7 +82,7 @@ Page Ruler是一款可以测量Chrome浏览器中网页元素大小尺寸的谷�
 
 ### Octo Mate
 
-![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/10.jpg)
+![](res/img/10.jpg)
 
 [https://github.com/camsong/chrome-github-mate/blob/master/README.cn.md](https://github.com/camsong/chrome-github-mate/blob/master/README.cn.md)
 [https://www.crx4chrome.com/crx/1150/](https://www.crx4chrome.com/crx/1150/)
@@ -93,7 +93,7 @@ Page Ruler是一款可以测量Chrome浏览器中网页元素大小尺寸的谷�
 
 ### Isometric Contributions
 
-![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/11.jpg)
+![](res/img/11.jpg)
 
 Isometric Contributions是一款可以将冷冰冰的数据转化为生动图形的Chrome扩展程序。它可以将你每天的contributions数目（可以理解为提交GitHub的数目）转化为颜色不一的立体柱状图，并给出自己的统计数据。Contributions数目由少到多分别以颜色逐渐变重的立体柱状图显示，宛如搭建一座高低错落的城市一般。 
 
@@ -101,7 +101,7 @@ Isometric Contributions是一款可以将冷冰冰的数据转化为生动图形
 
 ### Awesome Autocomplete
 
-![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/12.gif)
+![](res/img/12.gif)
 
 [https://github.com/algolia/github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete)
 
@@ -111,7 +111,7 @@ Isometric Contributions是一款可以将冷冰冰的数据转化为生动图形
 
 ### Markdown Here
 
-![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/13.png)
+![](res/img/13.png)
 
 Markdown Here 是个浏览器插件（Chrome/Firefox/Safari），可以将浏览器中编辑器里的 Markdown 文本转换成渲染过后的 HTML。
 
@@ -119,7 +119,7 @@ Markdown Here 是个浏览器插件（Chrome/Firefox/Safari），可以将浏览
 
 ### 掘金juejin
 
-![](http://pco46wcft.bkt.clouddn.com/zhouie/Google-Chrome-Extensions/14.png)
+![](res/img/14.png)
 
 一个帮助开发者成长的社区 - Become a Better Developer by Sharing and Learning !
 
